@@ -5,7 +5,7 @@ A Salesforce CRM application for parcel booking, shipment tracking, and delivery
 **Program:** Salesforce Developer (Naan Mudhalvan)  
 **College:** Arasu Engineering College, Kumbakonam  
 **Project:** SwiftShip Tracker  
-**Team Members:** K. Kishore, Sachin
+**Team Members: sanjay c, Abishek E, vishva B, sachin c, sanjay G
 
 ## Demo Video
 
@@ -178,5 +178,8 @@ The repository contains the project report and implementation documentation. Act
 
 ## Team
 
-**K. Kishore** – Project Member  
-**Sachin** – Project Member
+**sanjay c** – Project Member  
+**Sachin c** – Project Member
+**vishva B** – Project Member
+**sanjay G** – Project Member
+**abishek E** – Project Member
